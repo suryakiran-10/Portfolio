@@ -59,9 +59,9 @@
     if (!profileModal) return;
     if (modalPhoto) {
       const profilePhotos = [
-        'images/profile/WhatsApp Image 2026-05-15 at 3.58.12 PM.jpeg',
-        'images/profile/profile-1.png',
-        'images/profile/profile-2.jpeg'
+        'profile.png',
+        'profile-1.png',
+        'pink-shirt.jpeg'
       ];
       let currentPhotoIndex = parseInt(modalPhoto.dataset.photoIndex || '0');
       if (opener === openBtn) {
