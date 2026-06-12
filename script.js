@@ -59,7 +59,7 @@
     if (!profileModal) return;
     if (modalPhoto) {
       const profilePhotos = [
-        'profile.png',
+        'profile-hero.png',
         'profile-1.png',
         'pink-shirt.jpeg'
       ];
